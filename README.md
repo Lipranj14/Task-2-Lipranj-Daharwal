@@ -1,4 +1,4 @@
-# DecodeLabs Project 2: Data Classification Using AI
+Data Classification Using AI
 
 This repository contains a Python-based machine learning solution that classifies the classic Iris dataset using a Random Forest Classifier.
 
